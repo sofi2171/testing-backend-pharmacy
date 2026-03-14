@@ -20,7 +20,7 @@ apiKey.apiKey = process.env.BREVO_API_KEY; // Render pe variable set lazmi karna
 const apiInstance = new SibApiV3Sdk.TransactionalEmailsApi();
 
 const BRAND_COLOR = "#2563eb";
-const FOOTER_TEXT = "© 2026 PharmPro Cloud Solutions. All rights reserved.";
+const FOOTER_TEXT = "© 2026 Tech SufianX/ PharmPro Cloud Solutions. All rights reserved.";
 
 // --- AUTO-PING SYSTEM (KEEP-ALIVE) ---
 const SERVER_URL = process.env.SERVER_URL || `http://localhost:3000`;
